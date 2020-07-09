@@ -1,0 +1,7 @@
+C:\Users\13173\Desktop\ElevenFiftyProjectsSD\GoldBadge\CSharpFundamentals\Pair_Console_Take2\bin\Debug\Pair_Console_Take2.exe.config
+C:\Users\13173\Desktop\ElevenFiftyProjectsSD\GoldBadge\CSharpFundamentals\Pair_Console_Take2\bin\Debug\Pair_Console_Take2.exe
+C:\Users\13173\Desktop\ElevenFiftyProjectsSD\GoldBadge\CSharpFundamentals\Pair_Console_Take2\bin\Debug\Pair_Console_Take2.pdb
+C:\Users\13173\Desktop\ElevenFiftyProjectsSD\GoldBadge\CSharpFundamentals\Pair_Console_Take2\obj\Debug\Pair_Console_Take2.csprojAssemblyReference.cache
+C:\Users\13173\Desktop\ElevenFiftyProjectsSD\GoldBadge\CSharpFundamentals\Pair_Console_Take2\obj\Debug\Pair_Console_Take2.csproj.CoreCompileInputs.cache
+C:\Users\13173\Desktop\ElevenFiftyProjectsSD\GoldBadge\CSharpFundamentals\Pair_Console_Take2\obj\Debug\Pair_Console_Take2.exe
+C:\Users\13173\Desktop\ElevenFiftyProjectsSD\GoldBadge\CSharpFundamentals\Pair_Console_Take2\obj\Debug\Pair_Console_Take2.pdb
